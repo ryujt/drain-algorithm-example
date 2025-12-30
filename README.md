@@ -1,9 +1,3 @@
-네, 알겠습니다. 프로젝트를 독립적이고 깔끔하게 관리하기 위해 \*\*가상 환경(Virtual Environment)\*\*을 사용하는 것은 매우 좋은 방법입니다.
-
-기존 `README.md` 파일의 **4. 설치 (Installation)** 와 **5. 사용법 (Usage)** 부분을 가상 환경 기준으로 다시 작성해 드리겠습니다.
-
------
-
 # Drain 알고리즘 로그 파싱 예제 (Drain Algorithm Log Parsing Example)
 
 [](https://www.python.org/downloads/)
